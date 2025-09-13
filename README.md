@@ -59,7 +59,7 @@ Performance is expected to improve significantly with larger datasets and more e
 
 ---
 
-## 📊 Dataset
+##  Dataset
 **ROCOv2: Radiology Objects in Context Version 2**  
 - 79,789 radiological images with captions and clinical concepts  
 - Seven clinical modalities, manually curated medical concepts  
